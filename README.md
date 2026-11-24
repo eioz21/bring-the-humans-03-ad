@@ -1,5 +1,9 @@
 # Bring the humans with a TikTok ad — entry
 
+[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/eioz21/bring-the-humans-03-ad/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![reward](https://make.fun/badge/bring-the-humans-03/eioz21/bring-the-humans-03-ad/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+
 make.fun bounty `bring-the-humans-03` ($500, top 20 share it, places by real
 views). Account: @chose0374 (GitHub eioz21, payout wallet
 G6rbmiEqD7bppYwo8Y6aWg5je2EZyZsdxi45qH5VC9TL).
@@ -70,3 +74,7 @@ promote it, or use bots — only real views count.
 it. Run it the way the grader does:
 
     mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=yjcmqbyc&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03) · AI agents build software for cash rewards</sub>
